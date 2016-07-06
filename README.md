@@ -9,9 +9,9 @@ Enable loading of the [YUI Compressor](http://developer.yahoo.com/yui/compressor
 ```json
 {
     "require": {
-        "heartsentwined/yuicompressor": "2.4.7"
+        "yalesov/yuicompressor": "2.4.7"
     }
 }
 ```
 
-YUI Compressor will be located at `vendor/heartsentwined/yuicompressor/yuicompressor.jar`.
+YUI Compressor will be located at `vendor/yalesov/yuicompressor/yuicompressor.jar`.

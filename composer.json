@@ -1,6 +1,21 @@
 {
-    "name": "heartsentwined/yuicompressor",
+    "name": "yalesov/yuicompressor",
     "description": "YUI Compressor is a popular CSS and JS minifier.",
     "keywords": ["yui", "minifier", "compressor", "js", "css"],
-    "homepage": "https://github.com/heartsentwined/yuicompressor"
+    "authors": [
+        {
+            "name": "Yulij Andreevich Lesov",
+            "email": "yalesov@gmail.com"
+        }
+    ],
+    "homepage": "https://github.com/yalesov/php-yuicompressor",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/yalesov/php-yuicompressor"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/yalesov/php-yuicompressor/issues"
+    }
 }
