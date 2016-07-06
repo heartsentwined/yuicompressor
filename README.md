@@ -9,7 +9,7 @@ Enable loading of the [YUI Compressor](http://developer.yahoo.com/yui/compressor
 ```json
 {
     "require": {
-        "yalesov/yuicompressor": "2.4.7"
+        "yalesov/yuicompressor": "2.4.8"
     }
 }
 ```
